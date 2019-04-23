@@ -5,7 +5,7 @@
 - Run the application and go on http://localhost:8080/
 - Use the following urls to invoke controllers methods and see the interactions
   with the database:
-    * `/all - see all files from the database
+    * `/all` - see all files from the database
     * `/delete?id=[id]`: delete the file from the database with the passed id.
 
 ### Build and run
